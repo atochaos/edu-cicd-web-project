@@ -7,6 +7,8 @@
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
     <h1>MyInno update-2023-01-04 </h1>
+    <h1>Poll SCM Test 2023-01-04 </h1>
+    
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.0</h3>
 </body>
