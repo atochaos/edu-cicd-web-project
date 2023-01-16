@@ -25,6 +25,8 @@ public class WelcomeController {
     }
 
     private String getMessage() {
+//		System.out.println("getMessage");
+        logger.debug("getMessage");		
         return "Hi, there";
     }
 
